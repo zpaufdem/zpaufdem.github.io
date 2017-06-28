@@ -1,4 +1,4 @@
-$GOALDATE = 01/16/14
+$GOALDATE = time.js
 <html>
 <head>
 <center>
