@@ -1,5 +1,5 @@
 <bold>
 <center>
-NO!
+<font size="50" NO! </font>
 </center>
 </bold>
