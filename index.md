@@ -16,6 +16,7 @@ var d1 = new Date(dString);
 var d2 = new Date();
  
 document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays(d1, d2));
+document.getElementById("DateDiff.inDays").value = tbIndx;
 
 
 </script>
@@ -31,8 +32,7 @@ body {
 <center>
 
 <font size="200"> NO! </font><br/>
-<p><script type="text/javascript">document.write(DateDiff,inDays)</script></p>
-
+<input type="text" id="someInput" name="someInput"></input>
 </center>
 
 </head>
