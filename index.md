@@ -20,7 +20,6 @@ document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays
 
 </script>
 <head>
-<style>
 body {
        background-color: #b5b4b6;
        }
