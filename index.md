@@ -15,8 +15,6 @@ var dString = "January, 16, 2014";
 var d1 = new Date(dString);
 var d2 = new Date();
  
-document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays(d1, d2));
-document.getElementById("someInput").value = DateDiff.inDays(d1,d2);
 
 
 </script>
@@ -31,8 +29,7 @@ body {
 
 <center>
 
-<font size="200"> NO! </font><br/>
-<input type="text" id="someInput" name="someInput"></input>
+<font size="500"> NO! </font><br/>
 </center>
 
 </head>
