@@ -1,4 +1,3 @@
-$GOALDATE = time.js
 <html>
 
 <script>
