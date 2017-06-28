@@ -24,6 +24,9 @@ document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays
 body {
        background-color: #b5b4b6;
        }
+       </style>
+<body>
+</body>
 <center>
 
 <font size="200"> NO! </font><br/>
@@ -31,8 +34,7 @@ body {
 
 </center>
 </style>
-<body>
-</body>
+
 </head>
 </html>
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
