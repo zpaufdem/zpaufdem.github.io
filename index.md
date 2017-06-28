@@ -1,7 +1,6 @@
 <html>
 <head>
 <script>
-function myfunction() {
 var DateDiff = {
  
     inDays: function(d1, d2) {
@@ -15,8 +14,6 @@ var dString = "January, 16, 2014";
 var d1 = new Date(dString);
 var d2 = new Date();
  
-    document.getElementById("myText").innerHTML = number;
-}
 
 </script>
 </head>
@@ -24,16 +21,12 @@ var d2 = new Date();
 body {
        background-color: #b5b4b6;
        }
-<body onload="myfunction()">
-<h1>"Time since last goal: " <span id="myText"></span></h1>
 </body>
 </style>
 
 <center>
 
 <font size="500"> NO! </font><br/>
-
-document.body.innerhtml = DateDiff.inDays;
 
 </center>
 </html>
