@@ -1,5 +1,7 @@
 <html>
+<head>
 <script>
+function myfunction() {
 var DateDiff = {
  
     inDays: function(d1, d2) {
@@ -7,23 +9,23 @@ var DateDiff = {
         var t1 = d1.getTime();
  
         return parseInt((t2-t1)/(24*3600*1000));
-    },
- 
    
 var dString = "January, 16, 2014";
  
 var d1 = new Date(dString);
 var d2 = new Date();
  
-
+    document.getElementById("myText").innerHTML = number;
+}
 
 </script>
-<head>
+</head>
 <style>
 body {
        background-color: #b5b4b6;
        }
-<body>
+<body onload="myfunction()">
+<h1>"Time since last goal: " <span id="myText"></span></h1>
 </body>
 </style>
 
@@ -34,8 +36,6 @@ body {
 document.body.innerhtml = DateDiff.inDays;
 
 </center>
-
-</head>
 </html>
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
