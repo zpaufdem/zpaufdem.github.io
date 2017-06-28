@@ -2,7 +2,7 @@
 <head>
 <bold>
 <center>
-<font size="1000050"> NO! </font>
+NO!
 </center>
 </bold>
 </head>
