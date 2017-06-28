@@ -37,17 +37,15 @@ var d1 = new Date(dString);
 var d2 = new Date();
  
 document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays(d1, d2));
-document.write("<br />Number of <b>weeks</b> since "+dString+": "+DateDiff.inWeeks(d1, d2));
-document.write("<br />Number of <b>months</b> since "+dString+": "+DateDiff.inMonths(d1, d2));
-document.write("<br />Number of <b>years</b> since "+dString+": "+DateDiff.inYears(d1, d2));
+#document.write("<br />Number of <b>weeks</b> since "+dString+": "+DateDiff.inWeeks(d1, d2));
+#document.write("<br />Number of <b>months</b> since "+dString+": "+DateDiff.inMonths(d1, d2));
+#document.write("<br />Number of <b>years</b> since "+dString+": "+DateDiff.inYears(d1, d2));
 
 </script>
 <body
 <head>
 <center>
 <font size="200"> NO! </font><br/>
-<a id="test" href = test.html><a/>
-<font size="200"> Time Since Last Goal test.html </font>
 </center>
 </head>
 </body>
