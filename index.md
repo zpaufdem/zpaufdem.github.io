@@ -16,7 +16,7 @@ var d1 = new Date(dString);
 var d2 = new Date();
  
 document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays(d1, d2));
-document.getElementById("someInput").value = DateDiff.inDays;
+document.getElementById("someInput").value = DateDiff.inDays(d1,d2);
 
 
 </script>
