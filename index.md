@@ -1,7 +1,10 @@
+$GOALDATE = 01/16/14
 <html>
 <head>
 <center>
-<font size="200"> NO! </font>
+<font size="200"> NO! </font></br>
+<font size="200"> Time Since Last Goal $GOALDATE </font>
+
 </center>
 </head>
 </html>
