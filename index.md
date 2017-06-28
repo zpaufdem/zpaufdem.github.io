@@ -23,7 +23,6 @@ document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays
 <head>
 <center>
 <font size="200"> NO! </font><br/>
-<a id="test" href = test.html><a/>
 </center>
 </head>
 </html>
