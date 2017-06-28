@@ -24,9 +24,9 @@ body {
 </body>
 </style>
 
-<body>
-<embed src="chelsea dagger lyrics.mp3" autostart="true" loop="true" hidden="true">  
-</body>
+<audio autoplay loop>
+      <source src="chelsea dagger lyrics.mp3">
+</audio>
 
 <font size="5000"> No. </font><br/>
 
