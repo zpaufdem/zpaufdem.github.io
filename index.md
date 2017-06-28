@@ -24,7 +24,7 @@ body {
 </body>
 </style>
 
-<audio controls>
+<audio>
 <source src="chelsea dagger lyrics.mp3" type="audio/mpeg">
 </audio>
 
