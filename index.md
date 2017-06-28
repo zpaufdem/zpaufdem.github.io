@@ -1,9 +1,7 @@
 <html>
 <head>
-<bold>
 <center>
-NO!
+<font size="100"> NO! </font size>
 </center>
-</bold>
 </head>
 </html>
