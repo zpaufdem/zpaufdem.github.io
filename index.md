@@ -28,7 +28,7 @@ body {
 <font size="5000"> No. </font><br/>
 
 </html>
-<img src="https://giphy.com/gifs/2015-chicago-blackhawks-patrick-kane-T3FWDha3bQ2pW" />
+<img src="https://media.giphy.com/media/T3FWDha3bQ2pW/giphy.gif" />
 
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
