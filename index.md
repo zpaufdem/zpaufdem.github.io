@@ -20,11 +20,19 @@ document.write("<br />Number of <b>days</b> since "+dString+": "+DateDiff.inDays
 
 </script>
 <head>
+<style>
+body {
+       background-color: #b5b4b6;
+       }
 <center>
+
 <font size="200"> NO! </font><br/>
 <p><script type="text/javascript">document.write(DateDiff,inDays)</script></p>
 
 </center>
+</style>
+<body>
+</body>
 </head>
 </html>
 <img src="http://i546.photobucket.com/albums/hh412/zman31495/zameats.jpg" />
