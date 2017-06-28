@@ -30,6 +30,9 @@ body {
 <center>
 
 <font size="500"> NO! </font><br/>
+
+document.body.innerhtml = DateDiff.inDays;
+
 </center>
 
 </head>
