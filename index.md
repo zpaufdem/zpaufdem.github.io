@@ -1,5 +1,5 @@
 <html>
-<a href="http://hasaugie.scoredabroomball.me">Augie </a> <br/>
-<a href="players/zameats/index.html">Zameats </a>
+<a href="http://hasaugie.scoredabroomballgoal.me">Augie </a> <br/>
+<a href="http://haszameats.scoredabroomabllgoal.me">Zameats </a>
 </html>
  
