@@ -1,5 +1,9 @@
 <html>
-<a href="http://hasaugie.scoredabroomballgoal.me">Augie </a> <br/>
-<a href="http://haszameats.scoredabroomballgoal.me/">Zameats </a>
+<style>
+body {
+       background-color: #b5b4b6;
+       }
+</body>
+</style>
+<font size="5000"> No. </font><br/>
 </html>
- 
